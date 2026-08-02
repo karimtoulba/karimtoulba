@@ -3,13 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Toulba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimtoulba/)
 [![YouTube](https://img.shields.io/badge/YouTube-Karim%20Toulba-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@karimtoulba)
 
-I hold a medicine degree — but my real path led me into systems, infrastructure, and DevOps, where the same diagnostic discipline now drives how I troubleshoot networks, servers, and complex technical failures.
- 
-In 2019, I founded Purple Arabia, a web hosting business, starting hands-on in technical support and growing it into a full infrastructure operation. Over 7+ years, I've built deep expertise managing Linux server infrastructure, networks, and hosting environments — leading server migrations with minimal downtime and hardening systems against security threats through proactive firewall and network-level defenses.
- 
-I later expanded into cloud infrastructure and DevOps practices, working hands-on with AWS & Azure to migrate workloads and architect high-availability, multi-tier environments using Docker. I built CI/CD pipelines in GitLab with YAML-defined stages, set up monitoring and alerting from the ground up using Prometheus and Grafana, and automate operational work with Bash.
- 
-I approach infrastructure the way I was trained to approach a diagnosis: identify the root cause, not just the symptom, and fix it for good.
+I hold a medicine degree — but my path led me into systems and infrastructure, where the same diagnostic discipline now drives how I troubleshoot networks, servers, and complex technical failures. Just as in medicine, I don't stop at symptoms: I trace every issue to its root cause and fix it for good.
+
+Over 7+ years, I've built deep expertise managing Linux server infrastructure, networks, and hosting environments — supporting client environments, leading server migrations with minimal downtime, and hardening systems against security threats through proactive firewall and network-level defenses
+
+I've expanded into cloud infrastructure, working hands-on with AWS & Azure — to migrate workloads, architect scalable environments, and automate backups. I also build monitoring and alerting stacks from the ground up using Prometheus and Grafana, and eliminate repetitive operational work through Bash and Python automation.
 
 ## Skills
 
