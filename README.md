@@ -32,7 +32,3 @@ Purple Arabia - Cairo, Egypt [Apr 2026 - Present]
 ## Streak Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=karimtoulba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-karim@wadipurple.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim@wadipurple.com)
