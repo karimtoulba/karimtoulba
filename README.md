@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Toulba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimtoulba/)
 [![YouTube](https://img.shields.io/badge/YouTube-Karim%20Toulba-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@karimtoulba)
 
-An Infrastructure professional with 7+ years of hands-on experience across Linux systems, servers, networking, hosting environments, and technical operations.
+An Infrastructure professional with 5+ years of hands-on experience across Linux systems, servers, networking, hosting environments, and technical operations.
 
 ## Skills
 
